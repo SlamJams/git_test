@@ -1,0 +1,1 @@
+This is SlamJam's first git project!
